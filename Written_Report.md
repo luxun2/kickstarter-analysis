@@ -11,11 +11,13 @@ The purpose here is to help our client Louise successful in her own kickstarter 
 
 ### Analysis of Outcomes Based on Launch Date
 We performed our analysis for the launch dates first. We created a pivot table in excel and filtered the table based on categories, years, and outcomes. There is a focus on the theatre category since that is the kickstarter Louise is intending to start. A line chart was created on this pivot table and named "Theater_Outcomes_vs_Launch.png" as shown here. 
-![This is an image](https://i.imgur.com/tEw4NBN.png)
+
+![This is an image](https://i.imgur.com/1g4GSzq.png)
 
 
 ### Analysis of Outcomes Based on Goals
-Next we compiled the data of the outcomes based on goal size using various COUNTIF() statements. An example of code can be viewed here. ```=COUNTIFS(Kickstarter!D:D, ">=10000",Kickstarter!D:D, "<14999", Kickstarter!F:F, "successful", Kickstarter!N:N, "theater/plays")``` Another line chart was made of this data as shown here in this image. ![This is an image](https://imgur.com/tEw4NBN)
+Next we compiled the data of the outcomes based on goal size using various COUNTIF() statements. An example of code can be viewed here. ```=COUNTIFS(Kickstarter!D:D, ">=10000",Kickstarter!D:D, "<14999", Kickstarter!F:F, "successful", Kickstarter!N:N, "theater/plays")``` Another line chart was made of this data as shown here in this image.
+![This is an image](https://i.imgur.com/tEw4NBN.png)
 
 ### Challenges and Difficulties Encountered
 The largest challenges here is understanding how to seperate the data using complex countif statements and how what chart to use to properly convey the data. There we some difficulties in understanding the Github markup langauge but this is solved by reading the documentation. 
