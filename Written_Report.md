@@ -11,7 +11,7 @@ The purpose here is to help our client Louise successful in her own kickstarter 
 
 ### Analysis of Outcomes Based on Launch Date
 We performed our analysis for the launch dates first. We created a pivot table in excel and filtered the table based on categories, years, and outcomes. There is a focus on the theatre category since that is the kickstarter Louise is intending to start. A line chart was created on this pivot table and named "Theater_Outcomes_vs_Launch.png" as shown here. 
-![This is an image](https://imgur.com/a/CLffd63)
+![This is an image](https://imgur.com/tEw4NBN)
 
 
 ### Analysis of Outcomes Based on Goals
