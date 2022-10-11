@@ -15,7 +15,7 @@ We performed our analysis for the launch dates first. We created a pivot table i
 
 
 ### Analysis of Outcomes Based on Goals
-Next we compiled the data of the outcomes based on goal size using various COUNTIF() statements. An example of code can be viewed here. ```=COUNTIFS(Kickstarter!D:D, ">=10000",Kickstarter!D:D, "<14999", Kickstarter!F:F, "successful", Kickstarter!N:N, "theater/plays")``` Another line chart was made of this data as shown here in this image. ![This is an image](https://imgur.com/a/haGFbrf)
+Next we compiled the data of the outcomes based on goal size using various COUNTIF() statements. An example of code can be viewed here. ```=COUNTIFS(Kickstarter!D:D, ">=10000",Kickstarter!D:D, "<14999", Kickstarter!F:F, "successful", Kickstarter!N:N, "theater/plays")``` Another line chart was made of this data as shown here in this image. ![This is an image](https://imgur.com/tEw4NBN)
 
 ### Challenges and Difficulties Encountered
 The largest challenges here is understanding how to seperate the data using complex countif statements and how what chart to use to properly convey the data. There we some difficulties in understanding the Github markup langauge but this is solved by reading the documentation. 
